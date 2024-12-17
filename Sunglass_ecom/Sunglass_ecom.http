@@ -1,0 +1,6 @@
+@Sunglass_ecom_HostAddress = http://localhost:5219
+
+GET {{Sunglass_ecom_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
